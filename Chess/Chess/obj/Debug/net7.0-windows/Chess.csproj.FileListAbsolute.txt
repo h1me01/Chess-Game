@@ -1,0 +1,34 @@
+C:\Users\himec\Documents\PFVS\Coding\c#\Projekte\Chess\Chess\bin\Debug\net7.0-windows\Chess.exe
+C:\Users\himec\Documents\PFVS\Coding\c#\Projekte\Chess\Chess\bin\Debug\net7.0-windows\Chess.deps.json
+C:\Users\himec\Documents\PFVS\Coding\c#\Projekte\Chess\Chess\bin\Debug\net7.0-windows\Chess.runtimeconfig.json
+C:\Users\himec\Documents\PFVS\Coding\c#\Projekte\Chess\Chess\bin\Debug\net7.0-windows\Chess.dll
+C:\Users\himec\Documents\PFVS\Coding\c#\Projekte\Chess\Chess\bin\Debug\net7.0-windows\Chess.pdb
+C:\Users\himec\Documents\PFVS\Coding\c#\Projekte\Chess\Chess\obj\Debug\net7.0-windows\Chess.csproj.AssemblyReference.cache
+C:\Users\himec\Documents\PFVS\Coding\c#\Projekte\Chess\Chess\obj\Debug\net7.0-windows\Chess.csproj.GenerateResource.cache
+C:\Users\himec\Documents\PFVS\Coding\c#\Projekte\Chess\Chess\obj\Debug\net7.0-windows\Chess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\himec\Documents\PFVS\Coding\c#\Projekte\Chess\Chess\obj\Debug\net7.0-windows\Chess.AssemblyInfoInputs.cache
+C:\Users\himec\Documents\PFVS\Coding\c#\Projekte\Chess\Chess\obj\Debug\net7.0-windows\Chess.AssemblyInfo.cs
+C:\Users\himec\Documents\PFVS\Coding\c#\Projekte\Chess\Chess\obj\Debug\net7.0-windows\Chess.csproj.CoreCompileInputs.cache
+C:\Users\himec\Documents\PFVS\Coding\c#\Projekte\Chess\Chess\obj\Debug\net7.0-windows\Chess.dll
+C:\Users\himec\Documents\PFVS\Coding\c#\Projekte\Chess\Chess\obj\Debug\net7.0-windows\refint\Chess.dll
+C:\Users\himec\Documents\PFVS\Coding\c#\Projekte\Chess\Chess\obj\Debug\net7.0-windows\Chess.pdb
+C:\Users\himec\Documents\PFVS\Coding\c#\Projekte\Chess\Chess\obj\Debug\net7.0-windows\Chess.genruntimeconfig.cache
+C:\Users\himec\Documents\PFVS\Coding\c#\Projekte\Chess\Chess\obj\Debug\net7.0-windows\ref\Chess.dll
+C:\Users\burio\Downloads\Neuer Ordner\Chess\Chess\obj\Debug\net7.0-windows\Chess.csproj.AssemblyReference.cache
+C:\Users\burio\Downloads\Neuer Ordner\Chess\Chess\obj\Debug\net7.0-windows\Chess.Form1.resources
+C:\Users\burio\Downloads\Neuer Ordner\Chess\Chess\obj\Debug\net7.0-windows\Chess.csproj.GenerateResource.cache
+C:\Users\burio\Downloads\Neuer Ordner\Chess\Chess\obj\Debug\net7.0-windows\Chess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burio\Downloads\Neuer Ordner\Chess\Chess\obj\Debug\net7.0-windows\Chess.AssemblyInfoInputs.cache
+C:\Users\burio\Downloads\Neuer Ordner\Chess\Chess\obj\Debug\net7.0-windows\Chess.AssemblyInfo.cs
+C:\Users\burio\Downloads\Neuer Ordner\Chess\Chess\obj\Debug\net7.0-windows\Chess.csproj.CoreCompileInputs.cache
+C:\Users\burio\Downloads\Neuer Ordner\Chess\Chess\obj\Debug\net7.0-windows\Chess.dll
+C:\Users\burio\Downloads\Neuer Ordner\Chess\Chess\obj\Debug\net7.0-windows\refint\Chess.dll
+C:\Users\burio\Downloads\Neuer Ordner\Chess\Chess\obj\Debug\net7.0-windows\Chess.pdb
+C:\Users\burio\Downloads\Neuer Ordner\Chess\Chess\bin\Debug\net7.0-windows\Chess.exe
+C:\Users\burio\Downloads\Neuer Ordner\Chess\Chess\bin\Debug\net7.0-windows\Chess.deps.json
+C:\Users\burio\Downloads\Neuer Ordner\Chess\Chess\bin\Debug\net7.0-windows\Chess.runtimeconfig.json
+C:\Users\burio\Downloads\Neuer Ordner\Chess\Chess\bin\Debug\net7.0-windows\Chess.dll
+C:\Users\burio\Downloads\Neuer Ordner\Chess\Chess\bin\Debug\net7.0-windows\Chess.pdb
+C:\Users\burio\Downloads\Neuer Ordner\Chess\Chess\obj\Debug\net7.0-windows\Chess.genruntimeconfig.cache
+C:\Users\burio\Downloads\Neuer Ordner\Chess\Chess\obj\Debug\net7.0-windows\ref\Chess.dll
+C:\Users\himec\Documents\PFVS\Coding\c#\Projekte\Chess\Chess\obj\Debug\net7.0-windows\Chess.Form.resources
